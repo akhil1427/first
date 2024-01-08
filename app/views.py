@@ -5,7 +5,7 @@ from django.http import HttpResponse
 
 
 def jalireddy(request):
-    return HttpResponse('<h1><marquee>Jalireddy: I want sreevalli</h1></marquee>')
+    return HttpResponse('<h1><marquee>Jalireddy: I want load </h1></marquee>')
 
 def pushpa(request):
-    return HttpResponse('<h1><marquee> pushpa: moddagudu </h1></marquee> ')
+    return HttpResponse('<h1><marquee> pushpa: ok....  </h1></marquee> ')
